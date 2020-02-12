@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Cartoon picture of PC](https://www.netclipart.com/pp/m/7-77933_computers-clipart-pdf-desktop-computer-clip-art.png)
