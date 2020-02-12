@@ -1,1 +1,12 @@
-Replace this with a list of your favorite things.
+* Food
+  * Panda Express
+  * Homecooking
+  * BBQ
+  * Sakura
+* Working Out
+* Lacrosse
+* Computers
+  * Developing
+  * Gaming
+* Reading
+* Guitar
